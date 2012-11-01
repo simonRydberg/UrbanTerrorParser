@@ -1,0 +1,117 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\New Unnamed Server\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\version\ioQ3 1.35urt win-x86 Oct  1 2012\dmflags\0\protocol\68\mapname\ut4_casa\sv_privateClients\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_dlURL\urbanterror.info\ Admin\adminname\ Email\xxx@xxx.xxx\g_maxGameClients\0\g_deadchat\1\g_gear\0\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\0\auth_status\init\g_modversion\4.2.004
+  0:00 Warmup:
+  0:00 InitAuth: \auth\0\auth_status\init\auth_cheaters\1\auth_tags\1\auth_notoriety\0\auth_groups\\auth_owners\\auth_verbosity\1
+  3:42 Session data initialised for  at 217193
+  3:42 ClientConnect: 0
+  3:42 ClientUserinfo: 0 \ip\192.168.1.5:27961\challenge\1721510585\qport\24870\protocol\68\name\Simpor\rate\16000\cg_predictitems\0\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027
+  3:42 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  3:42 AccountValidated: 0 -  - 0 - "0"
+  3:42 ClientUserinfo: 0 \ip\192.168.1.5:27961\challenge\1721510585\qport\24870\protocol\68\name\Simpor\rate\16000\cg_predictitems\0\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027
+  3:42 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  3:49 ClientUserinfo: 0 \ip\192.168.1.5:27961\name\Simpor\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027\cg_autoPickup\-1\gear\GLAORWA\weapmodes\00000110220000020002
+  3:49 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  3:49 ClientBegin: 0
+  3:58 Kill: 0 0 10: Simpor killed Simpor by MOD_CHANGE_TEAM
+  3:58 ClientUserinfo: 0 \ip\192.168.1.5:27961\name\Simpor\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027\cg_autoPickup\-1\gear\GLAORWA\weapmodes\00000110220000020002
+  3:58 ClientUserinfoChanged: 0 n\Simpor\t\2\r\2\tl\0\a0\0\a1\0\a2\255
+  3:58 ClientBegin: 0
+  5:00 ClientUserinfo: 0 \ip\192.168.1.5:27961\name\SimporBiggy\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027\cg_autoPickup\-1\gear\GLAORWA\weapmodes\00000110220000020002
+  5:00 ClientUserinfoChanged: 0 n\SimporBiggy\t\2\r\2\tl\0\a0\0\a1\0\a2\255
+  5:01 AccountValidated: 0 -  - 0 - "0"
+  5:01 ClientUserinfo: 0 \ip\192.168.1.5:27961\name\SimporBiggy\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\authc\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\teamtask\0\sex\male\cl_anonymous\0\cl_guid\757B2C50B14ED4AD3A4F64F22BDA2027\cg_autoPickup\-1\gear\GLAORWA\weapmodes\00000110220000020002
+  5:01 ClientUserinfoChanged: 0 n\SimporBiggy\t\2\r\2\tl\0\a0\0\a1\0\a2\255
+  6:22 Session data initialised for  at 377809
+  6:22 ClientConnect: 1
+  6:22 ClientUserinfo: 1 \ip\192.168.1.11:27960\challenge\1370793158\qport\495\protocol\68\name\Simpor\rate\8000\cg_predictitems\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\authc\0\teamtask\0\cl_guid\5F22842B3AEC841E4A624EC04C42C69F
+  6:22 ClientUserinfoChanged: 1 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  6:22 AccountValidated: 1 -  - 0 - "0"
+  6:22 ClientUserinfo: 1 \ip\192.168.1.11:27960\challenge\1370793158\qport\495\protocol\68\name\Simpor\rate\8000\cg_predictitems\0\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\authc\0\teamtask\0\cl_guid\5F22842B3AEC841E4A624EC04C42C69F
+  6:22 ClientUserinfoChanged: 1 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  6:35 ClientUserinfo: 1 \ip\192.168.1.11:27960\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\5F22842B3AEC841E4A624EC04C42C69F\cg_autoPickup\-1\weapmodes\00000110220000020002
+  6:35 ClientUserinfoChanged: 1 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  6:35 ClientBegin: 1
+  6:37 Kill: 1 1 10: Simpor killed Simpor by MOD_CHANGE_TEAM
+  6:37 ClientUserinfo: 1 \ip\192.168.1.11:27960\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\5F22842B3AEC841E4A624EC04C42C69F\cg_autoPickup\-1\weapmodes\00000110220000020002
+  6:37 ClientUserinfoChanged: 1 n\Simpor\t\1\r\2\tl\0\a0\255\a1\0\a2\0
+  6:37 ClientBegin: 1
+  6:52 ------------------------------------------------------------
+  6:52 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\New Unnamed Server\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\version\ioQ3 1.35urt win-x86 Oct  1 2012\dmflags\0\protocol\68\mapname\ut4_casa\sv_privateClients\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_dlURL\urbanterror.info\ Admin\adminname\ Email\xxx@xxx.xxx\g_maxGameClients\0\g_deadchat\1\g_gear\0\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  7:23 Kill: 0 1 19: SimporBiggy killed Simpor by UT_MOD_LR300
+  7:23 SurvivorWinner: Blue
+  7:28 ------------------------------------------------------------
+  7:28 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\New Unnamed Server\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\version\ioQ3 1.35urt win-x86 Oct  1 2012\dmflags\0\protocol\68\mapname\ut4_casa\sv_privateClients\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_dlURL\urbanterror.info\ Admin\adminname\ Email\xxx@xxx.xxx\g_maxGameClients\0\g_deadchat\1\g_gear\0\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  8:09 Kill: 0 1 19: SimporBiggy killed Simpor by UT_MOD_LR300
+  8:09 SurvivorWinner: Blue
+  8:14 ------------------------------------------------------------
+  8:14 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\New Unnamed Server\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\version\ioQ3 1.35urt win-x86 Oct  1 2012\dmflags\0\protocol\68\mapname\ut4_casa\sv_privateClients\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_dlURL\urbanterror.info\ Admin\adminname\ Email\xxx@xxx.xxx\g_maxGameClients\0\g_deadchat\1\g_gear\0\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+ 11:14 SurvivorWinner: Draw
+ 11:19 ------------------------------------------------------------
+ 11:19 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\New Unnamed Server\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\version\ioQ3 1.35urt win-x86 Oct  1 2012\dmflags\0\protocol\68\mapname\ut4_casa\sv_privateClients\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_dlURL\urbanterror.info\ Admin\adminname\ Email\xxx@xxx.xxx\g_maxGameClients\0\g_deadchat\1\g_gear\0\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+ 13:39 ShutdownGame:
+ 13:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\UrbanTerrorLAN\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\2\g_allowvote\536871039\g_gear\0\g_deadchat\1\g_maxGameClients\0\sv_dlURL\urbanterror.info\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\dmflags\0\version\ioQ3 1.35urt win-x86 Oct  1 2012\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\adminname\ Email\xxx@xxx.xxx\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\0\auth_status\init\g_modversion\4.2.004
+  0:00 Warmup:
+  0:00 InitAuth: \auth\0\auth_status\init\auth_cheaters\1\auth_tags\1\auth_notoriety\0\auth_groups\\auth_owners\\auth_verbosity\1
+  0:24 Session data initialised for  at 19865
+  0:24 ClientConnect: 0
+  0:24 ClientUserinfo: 0 \ip\192.168.1.11:27960\challenge\51278396\qport\495\protocol\68\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\643968A52D19137CB4DB978E46759E73\cg_autoPickup\-1\weapmodes\00000110220000020002
+  0:24 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  0:24 AccountValidated: 0 -  - 0 - "0"
+  0:24 ClientUserinfo: 0 \ip\192.168.1.11:27960\challenge\51278396\qport\495\protocol\68\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\643968A52D19137CB4DB978E46759E73\cg_autoPickup\-1\weapmodes\00000110220000020002
+  0:24 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  0:37 ClientUserinfo: 0 \ip\192.168.1.11:27960\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\643968A52D19137CB4DB978E46759E73\cg_autoPickup\-1\weapmodes\00000110220000020002
+  0:37 ClientUserinfoChanged: 0 n\Simpor\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  0:37 ClientBegin: 0
+  1:21 Session data initialised for  at 76573
+  1:21 ClientConnect: 1
+  1:21 ClientUserinfo: 1 \ip\192.168.1.5:27960\challenge\1054891581\qport\16515\protocol\68\name\SimporBiggy\rate\16000\cg_predictitems\0\cl_anonymous\0\sex\male\handicap\100\color2\5\color1\4\team_headmodel\*james\team_model\james\headmodel\sarge\model\sarge\snaps\20\authc\0\teamtask\0\cl_guid\A722DB85ABD174AA38657A3280944623
+  1:21 ClientUserinfoChanged: 1 n\SimporBiggy\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  1:21 AccountValidated: 1 -  - 0 - "0"
+  1:21 ClientUserinfo: 1 \ip\192.168.1.5:27960\challenge\1054891581\qport\16515\protocol\68\name\SimporBiggy\rate\16000\cg_predictitems\0\cl_anonymous\0\sex\male\handicap\100\color2\5\color1\4\team_headmodel\*james\team_model\james\headmodel\sarge\model\sarge\snaps\20\authc\0\teamtask\0\cl_guid\A722DB85ABD174AA38657A3280944623
+  1:21 ClientUserinfoChanged: 1 n\SimporBiggy\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  1:27 ClientUserinfo: 1 \ip\192.168.1.5:27960\name\SimporBiggy\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\gear\GLAORWA\cg_autoPickup\-1\cl_anonymous\0\sex\male\handicap\100\color2\5\color1\4\team_headmodel\*james\team_model\james\headmodel\sarge\model\sarge\snaps\20\authc\0\teamtask\0\cl_guid\A722DB85ABD174AA38657A3280944623\weapmodes\00000110220000020002
+  1:27 ClientUserinfoChanged: 1 n\SimporBiggy\t\3\r\2\tl\0\a0\255\a1\255\a2\255
+  1:27 ClientBegin: 1
+  1:29 Kill: 1 1 10: SimporBiggy killed SimporBiggy by MOD_CHANGE_TEAM
+  1:29 ClientUserinfo: 1 \ip\192.168.1.5:27960\name\SimporBiggy\racered\2\raceblue\2\rate\16000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\gear\GLAORWA\cg_autoPickup\-1\cl_anonymous\0\sex\male\handicap\100\color2\5\color1\4\team_headmodel\*james\team_model\james\headmodel\sarge\model\sarge\snaps\20\authc\0\teamtask\0\cl_guid\A722DB85ABD174AA38657A3280944623\weapmodes\00000110220000020002
+  1:29 ClientUserinfoChanged: 1 n\SimporBiggy\t\2\r\2\tl\0\a0\0\a1\0\a2\255
+  1:29 ClientBegin: 1
+  1:34 Kill: 0 0 10: Simpor killed Simpor by MOD_CHANGE_TEAM
+  1:34 ClientUserinfo: 0 \ip\192.168.1.11:27960\name\Simpor\racered\2\raceblue\2\rate\8000\ut_timenudge\0\cg_rgb\128 128 128\cg_predictitems\0\cg_physics\1\snaps\20\model\sarge\headmodel\sarge\team_model\james\team_headmodel\*james\color1\4\color2\5\handicap\100\sex\male\cl_anonymous\0\gear\GMJARXA\authc\0\teamtask\0\cl_guid\643968A52D19137CB4DB978E46759E73\cg_autoPickup\-1\weapmodes\00000110220000020002
+  1:34 ClientUserinfoChanged: 0 n\Simpor\t\1\r\2\tl\0\a0\255\a1\0\a2\0
+  1:34 ClientBegin: 0
+  1:48 ------------------------------------------------------------
+  1:48 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\UrbanTerrorLAN\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\2\g_allowvote\536871039\g_gear\0\g_deadchat\1\g_maxGameClients\0\sv_dlURL\urbanterror.info\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\dmflags\0\version\ioQ3 1.35urt win-x86 Oct  1 2012\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\adminname\ Email\xxx@xxx.xxx\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  2:22 Hit: 0 1 6 8: SimporBiggy hit Simpor in the Vest
+  2:24 Hit: 0 1 8 8: SimporBiggy hit Simpor in the Right Arm
+  2:30 Hit: 0 1 9 8: SimporBiggy hit Simpor in the Legs
+  2:34 Hit: 0 1 6 8: SimporBiggy hit Simpor in the Vest
+  2:34 Kill: 1 0 19: SimporBiggy killed Simpor by UT_MOD_LR300
+  2:34 SurvivorWinner: Blue
+  2:39 ------------------------------------------------------------
+  2:39 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\UrbanTerrorLAN\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\2\g_allowvote\536871039\g_gear\0\g_deadchat\1\g_maxGameClients\0\sv_dlURL\urbanterror.info\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\dmflags\0\version\ioQ3 1.35urt win-x86 Oct  1 2012\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\adminname\ Email\xxx@xxx.xxx\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  3:02 Hit: 0 1 6 8: SimporBiggy hit Simpor in the Vest
+  3:02 Hit: 0 1 9 8: SimporBiggy hit Simpor in the Legs
+  3:02 Hit: 0 1 9 8: SimporBiggy hit Simpor in the Legs
+  3:02 Hit: 0 1 6 8: SimporBiggy hit Simpor in the Vest
+  3:03 Hit: 0 1 9 8: SimporBiggy hit Simpor in the Legs
+  3:03 Kill: 1 0 19: SimporBiggy killed Simpor by UT_MOD_LR300
+  3:03 SurvivorWinner: Blue
+  3:07 Item: 1 ut_weapon_ump45
+  3:08 ------------------------------------------------------------
+  3:08 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\UrbanTerrorLAN\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\2\g_allowvote\536871039\g_gear\0\g_deadchat\1\g_maxGameClients\0\sv_dlURL\urbanterror.info\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\dmflags\0\version\ioQ3 1.35urt win-x86 Oct  1 2012\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\adminname\ Email\xxx@xxx.xxx\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  4:02 Hit: 0 1 8 1: SimporBiggy hit Simpor in the Right Arm
+  4:03 Hit: 0 1 6 1: SimporBiggy hit Simpor in the Vest
+  4:03 Hit: 0 1 6 1: SimporBiggy hit Simpor in the Vest
+  4:04 Hit: 0 1 6 1: SimporBiggy hit Simpor in the Vest
+  4:04 Kill: 1 0 12: SimporBiggy killed Simpor by UT_MOD_KNIFE
+  4:04 Item: 1 ut_weapon_deagle
+  4:04 Item: 1 ut_weapon_ump45
+  4:04 SurvivorWinner: Blue
+  4:09 ------------------------------------------------------------
+  4:09 InitRound: \sv_allowdownload\0\g_matchmode\0\g_gametype\4\sv_maxclients\12\sv_floodprotect\1\capturelimit\0\sv_hostname\UrbanTerrorLAN\g_followstrict\1\fraglimit\10\timelimit\20\g_cahtime\60\g_swaproles\0\g_roundtime\3\g_bombexplodetime\40\g_bombdefusetime\10\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\2\g_allowvote\536871039\g_gear\0\g_deadchat\1\g_maxGameClients\0\sv_dlURL\urbanterror.info\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\dmflags\0\version\ioQ3 1.35urt win-x86 Oct  1 2012\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\adminname\ Email\xxx@xxx.xxx\gamename\q3urt42\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\1\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.2.004
+  4:33 ClientDisconnect: 1
+  4:33 Warmup:
+  4:40 ClientDisconnect: 0
