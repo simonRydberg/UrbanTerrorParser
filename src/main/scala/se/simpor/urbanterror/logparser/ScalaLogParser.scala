@@ -15,8 +15,10 @@ object ScalaLogParser {
     var name = ""
     var killedBy = mutable.ListBuffer[Player]()
     var killedPlayer = mutable.ListBuffer[Player]()
+    var killedByWapon = mutable.ListBuffer[String]()
     var hittedBy = mutable.ListBuffer[Player]()
     var hitPlayer = mutable.ListBuffer[Player]()
+    var hitIn = mutable.ListBuffer[String]()
 
   }
 
@@ -43,6 +45,8 @@ object ScalaLogParser {
       println(value.name +
         ", killed: " + value.killedPlayer.length +
         ", deaths: " + value.killedBy.length +
+        ", weapon: " + value.killedByWapon +
+        ", hitted where: " + value.hitIn +
         ", hits: " + value.hitPlayer.length +
         ", hitted: " + value.hittedBy.length
       )
@@ -65,6 +69,7 @@ object ScalaLogParser {
     if (!info(2).contains("MOD_CHANGE_TEAM")) {
       player1.killedPlayer += player2
       player2.killedBy += player1
+      player1.killedByWapon += info(2).trim
     }
   }
 
@@ -87,6 +92,8 @@ object ScalaLogParser {
 
     player1.hitPlayer += player2
     player2.hittedBy += player1
+
+    player2.hitIn += info(2).trim
 
   }
 
