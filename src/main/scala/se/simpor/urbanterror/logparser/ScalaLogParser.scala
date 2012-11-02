@@ -15,6 +15,8 @@ object ScalaLogParser {
     var name = ""
     var killedBy = mutable.ListBuffer[Player]()
     var killedPlayer = mutable.ListBuffer[Player]()
+    var hittedBy = mutable.ListBuffer[Player]()
+    var hitPlayer = mutable.ListBuffer[Player]()
 
   }
 
@@ -38,7 +40,12 @@ object ScalaLogParser {
 
     for ((key, value) <- players) {
 
-      println(value.name + ", killed: " + value.killedPlayer.length + ", deaths: " + value.killedBy.length)
+      println(value.name +
+        ", killed: " + value.killedPlayer.length +
+        ", deaths: " + value.killedBy.length +
+        ", hits: " + value.hitPlayer.length +
+        ", hitted: " + value.hittedBy.length
+      )
     }
   }
 
@@ -71,6 +78,16 @@ object ScalaLogParser {
 
   def hit(row: String) {
     println(row)
+    val split = row.split("\\:")
+    val text = split(3)
+    val info = text.split("(hit)|(in the)")
+
+    val player1 = getPlayer(info(0))
+    val player2 = getPlayer(info(1))
+
+    player1.hitPlayer += player2
+    player2.hittedBy += player1
+
   }
 
   def survivorWinner(row: String) {
