@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c47eba-fac8-40b1-a4a6-8c8b588bea91" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/links.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala" afterPath="$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala" />
     </list>
     <ignored path="urbanterror.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,21 +22,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala" line="69" class="se.simpor.urbanterror.logparser.ScalaLogParser$" package="se.simpor.urbanterror.logparser">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -76,10 +62,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ScalaLogParser.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ScalaLogParser.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="43" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.28671327">
+            <state line="82" column="86" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/links.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0529595">
               <folding />
             </state>
           </provider>
@@ -88,7 +83,7 @@
       <file leaf-file-name="games.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/games.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="70" selection-start="4191" selection-end="4206" vertical-scroll-proportion="-6.56">
+            <state line="24" column="70" selection-start="4191" selection-end="4206" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,6 +109,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/se/simpor/urbanterror/logparser/domain/Player.java" />
         <option value="$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala" />
+        <option value="$PROJECT_DIR$/src/test/resources/links.txt" />
       </list>
     </option>
   </component>
@@ -170,7 +166,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -185,10 +181,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -455,6 +447,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="urbanterror" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="urbanterror" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -701,7 +708,11 @@
       <created>1351864451206</created>
       <updated>1351864451206</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Vapen och regioner hanterade">
+      <created>1351864716692</created>
+      <updated>1351864716692</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -715,20 +726,20 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39961013" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34990254" sideWeight="0.49839744" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21901709" sideWeight="0.6705653" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25106838" sideWeight="0.6705653" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25106838" sideWeight="0.6500975" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34990254" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -770,7 +781,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hits hanterad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vapen och regioner hanterade" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -786,6 +797,7 @@
     <MESSAGE value="Projekt start" />
     <MESSAGE value="Börjat parsa i scala" />
     <MESSAGE value="Hits hanterad" />
+    <MESSAGE value="Vapen och regioner hanterade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -797,107 +809,84 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/scala/samples/junit.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/samples/scalatest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="6" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="31" column="6" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/samples/specs.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="6" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="6" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/games.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="16" selection-start="6075" selection-end="6084" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="38" column="16" selection-start="6075" selection-end="6084" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/se/simpor/urbanterror/logparser/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="20" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/TestScala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="2" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="2" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/domain/PlayerScala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="233" selection-end="233" vertical-scroll-proportion="0.30769232">
-          <folding />
-        </state>
+        <state line="12" column="14" selection-start="233" selection-end="233" vertical-scroll-proportion="0.30769232" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/se/simpor/urbanterror/logparser/domain/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="18" selection-start="1280" selection-end="1280" vertical-scroll-proportion="1.6923077">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="66" column="18" selection-start="1280" selection-end="1280" vertical-scroll-proportion="1.6923077" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="8" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.586727">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/games.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="70" selection-start="4191" selection-end="4206" vertical-scroll-proportion="-6.56">
-          <folding />
-        </state>
+        <state line="53" column="8" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.586727" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.9.1/scala-library-2.9.1.jar!/scala/collection/immutable/$colon$colon.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="53" selection-start="367" selection-end="398" vertical-scroll-proportion="-2.72">
-          <folding />
-        </state>
+        <state line="4" column="53" selection-start="367" selection-end="398" vertical-scroll-proportion="-2.72" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.9.1/scala-library-2.9.1.jar!/scala/collection/immutable/List.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0272">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0272" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.9.1/scala-library-2.9.1.jar!/scala/collection/generic/GenericCompanion.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="119" selection-start="360" selection-end="360" vertical-scroll-proportion="0.18652038">
-          <folding />
-        </state>
+        <state line="7" column="119" selection-start="360" selection-end="360" vertical-scroll-proportion="0.18652038" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.9.1/scala-library-2.9.1.jar!/scala/collection/mutable/LinkedList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="779" selection-end="779" vertical-scroll-proportion="0.1904">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="779" selection-end="779" vertical-scroll-proportion="0.1904" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/games.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="70" selection-start="4191" selection-end="4206" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/se/simpor/urbanterror/logparser/ScalaLogParser.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="43" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.28671327">
+        <state line="82" column="86" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0529595">
           <folding />
         </state>
       </provider>
